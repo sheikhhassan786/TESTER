@@ -1,0 +1,47 @@
+////////////////////////////////////////////// AUTOMATED UI DOCUMENTATION ///////////////////////////////////////////
+
+UI TESTING : 
+
+UI testing is bascially a can be used to test the functionalities of the different application .
+UI testing is about checking two things: how your application handles user actions performed via mouse, keyboard, and other input devices.
+whether the visual elements (buttons, links, text fields, images, and so on) are displayed correctly and work as intended.
+
+ There are two ways to test the applications
+
+-> Manually 
+-> Automatically
+
+
+Summary:
+
+In Automated Ui , the code will automatically make the browser or application to perform different action and steps to observe or test the functionalities.
+In this Assignment We auomate Ui of the different functionalities of  metabase using pycharm selnium (python langauge).
+So , we follow the following steps to run our automated ui test case.
+
+
+STEps : 
+
+In this Assignment we done the Automated UI testing of application(metabase) by using Python (selenium)in Pycharm(IDE) integrated develpoment environemnt.
+
+Firstly we need to do setup of a metabase by downloading it .We need java for its installation and runiing . Then we make environment variable paths then we install pip selenium and behave.
+
+After that we need a pycharm ide that required python for it .Install latest version of python then ide .Then make the project in Ide (Pycharm) .
+
+After that make a directory of step in the project then make a python file with extenion .py after that write a code in it
+
+So , we can done automatically so we just need to wrtie the python file  that firstly  will load the driver of the browser we did our in  a chrome for our automation 
+
+then open the link of a metabase (localhost:3000) which will open the metabase in the broswer . 
+
+Then we will provide the username and password by sendkey to the metabase through coding (by detching xpath or by fetching through class or id)
+
+Then It opens the metabase ,After that we wrote different code to test different functionalitiies .As we wrote a code to open a setting our code will open it by self by calling code
+
+.click is used when use to click
+
+
+Conculsion : 
+
+ (UI)User interface testing is important because it helps ensure that your app or website is easy to use and navigate for your users.
+By testing the UI, you can catch any potential issues that might make using your app or website difficult or confusing for your users.
+UI testing is the process of verifying that an app’s UI not only behaves as intended but also empowers users to make the most out of it with the least effort.
